@@ -3,7 +3,7 @@ Sotware to broadcast on my Home Lab Cable Network.
 
 To use this you'll need a bit of specialized hardware, main an IPQAM to ATSC Modulator if you live in North America. In other parts of the world you will need a different modulator, but they do exist.
 
-[![images/atsc_modulator.jpg]](https://www.soukacatv.com/ip-to-rf-modulator_p74.html)
+[![RF Modulator](images/atsc_modulator.jpg)](https://www.soukacatv.com/ip-to-rf-modulator_p74.html)
 
 This one is manufactured by Souka TV, and will allow you to create 4 "channels". It can be readily found on AliExpress for a few hundred dollars (~$400).
 
