@@ -26,6 +26,7 @@ I would be remiss to also to not include the following note:
 __This is not intended to be hooked up to an antenna and broadcast over the airwaves. Doing so could land you in big trouble with your local goverment.__
 
 ## Network Diagram
+```
 +----------------------------+                                                                  
 |                            |                                                                  
 |                            |                                                                  
@@ -57,6 +58,7 @@ __This is not intended to be hooked up to an antenna and broadcast over the airw
  |                           |              |                          |                        
  |                           |              |                          |                        
  +---------------------------+              +--------------------------+                        
+```
 
 ## Modulator Configuration
 Once you get your modulator you will need to make a few cofigurations:
