@@ -69,7 +69,7 @@ I would configure the NMS port to use DHCP. It most likely will have a static IP
 If you want a static IP I would configure this in your router.
 
 ### Modulation Parameters
-![images/modulation_params.png]
+![modulation parameters](images/modulation_params.png)
 
 This allows you to fine tune the RF parameters. Here you can change the broadcast frequencies and tweak a few settings.
 
@@ -81,17 +81,17 @@ The checkboxes at the bottom do the following:
 More Details can be found on [WikiPedia](https://en.wikipedia.org/wiki/Program_and_System_Information_Protocol)
 
 ### Input Configuration
-![images/main_ip_config.png]
+![Main IP Config](images/main_ip_config.png)
 
 Set a Static IP address for your main ethernet port. 
 
 ### SRC IP Config
-![images/src_ip_config.png]
+![Source IP Config](images/src_ip_config.png)
 
 To create the channel sources you need to create a Unicast address with a port number.
 
 ### Source Configuration
-![images/source_config.png]
+![Source Config](images/source_config.png)
 
 This maps the SRC IP ports to RF broadcast channels. Simply configure each to broadcast to a different RF channel, and click forward to start broadcasting.
 
